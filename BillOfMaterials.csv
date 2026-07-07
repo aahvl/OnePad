@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"LED2,LED1";"SK6812MINI-E_DOO";2;"SK6812MINI-E";"LCSC: C5149201";
+2;"SW2";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch_MP";"LCSC: C2682947";
+3;"SW1";"SW_MX_HS_CPG151101S11_1u";1;"SW_Push";"LCSC: C5156480";
+4;"U1";"XIAO-Generic-Hybrid-14P-2.54-21X17.8MM";1;"MOUDLE-SEEEDUINO-XIAO";"LCSC: C2924195";
