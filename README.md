@@ -7,7 +7,7 @@
 A special OneKey macropad, featuring just One Key, Backlighting for the key, a rotary encoder, 6 RGB LEDs, and a special engraved OneKey Case!
 This can be customized and programmed with Cherry MX Hotswap keys, a custom knob for the rotary encoder, and firmware wise, QMK!
 
-You can view a 3D Model (Assembly 1) of the casing [here!](https://cad.onshape.com/documents/d49002deca5d7f8962891b9d/w/8e326d7ba50aee91844e6f32/e/19b3f74cfa64233b2a067eb7?renderMode=0&uiState=6a4d3ac023a791259ef77f92)
+You can view a 3D Model (Assembly 1) of the casing [here!](https://cad.onshape.com/documents/d49002deca5d7f8962891b9d/w/8e326d7ba50aee91844e6f32/e/8ad1774f99b41a37136a701a?renderMode=0&uiState=6a5239fd8b3d0d21d2dd9c78)
 
 ## The Highlights
 - 1 Hotswappable Cherry MX mechanical switch
